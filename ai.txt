@@ -1,3 +1,5 @@
+gpt4-o
+
 generate a generic computer science resume in html using bootstrap for styling
 
 Here’s a clean, generic Computer Science resume built in HTML and styled with Bootstrap. It’s responsive, easy to customize, and works out of the box.
